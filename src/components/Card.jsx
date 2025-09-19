@@ -4,7 +4,7 @@ import "./Card.css"; // Import CSS
 const Card = () => {
   const messages = [
     "Tell something About your Teacher",
-    "Our Teacher Name is Sir Tatheer",
+    "Our Teacher Name is sir Tatheer",
     "HardWorking",
     "Handsome",
     "Kam age mai Mashallah buhut Ameer hai",
